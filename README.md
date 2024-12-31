@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 E-commerce Project
 🌟 Overview
       A fully-featured e-commerce platform offering seamless online shopping experiences. Features include product management, order processing, user authentication, and secure payment integration.
+
 🛠️ Features
     Product management (add, update, delete, view).
     User registration and login system.
