@@ -12,12 +12,11 @@ E-commerce Project
       A fully-featured e-commerce platform offering seamless online shopping experiences. Features include product management, order processing, user authentication, and secure payment integration.
 
 🛠️ Features
-
-    Product management (add, update, delete, view).
-    User registration and login system.
-    Secure payment integration ([e.g., Stripe, PayPal]).
-    Admin dashboard for managing content and orders.
-    Responsive design for all devices.
+Product management (add, update, delete, view).
+User registration and login system.
+Secure payment integration ([e.g., Stripe, PayPal]).
+Admin dashboard for managing content and orders.
+Responsive design for all devices.
 
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/2a37ac5f-64c5-4dd9-8a9e-089207e13abb)
