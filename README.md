@@ -6,17 +6,21 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+  
 E-commerce Project
 🌟 Overview
-      A fully-featured e-commerce platform offering seamless online shopping experiences. Features include product management, order processing, user authentication, and secure payment integration.
+A fully-featured e-commerce platform offering seamless online shopping experiences. Built with modern web technologies and Firebase for backend services.
 
 🛠️ Features
 Product management (add, update, delete, view).
-User registration and login system.
-Secure payment integration ([e.g., Stripe, PayPal]).
+User authentication using Firebase Authentication.
+Cloud Firestore for scalable and real-time database management.
 Admin dashboard for managing content and orders.
 Responsive design for all devices.
+
+🚀 Technologies Used
+Frontend: React.js
+Backend: Firebase (Authentication, Firestore)
 
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/2a37ac5f-64c5-4dd9-8a9e-089207e13abb)
